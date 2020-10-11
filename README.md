@@ -1,2 +1,2 @@
-# java-springboot-docker
-Java Springboot sample application with docker image genration
+# java-simple-rest-bootstrap
+A simple java REST bootstrap application example
